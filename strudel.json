@@ -1,4 +1,4 @@
 {
-"_base": "https://raw.githubusercontent.com/khara53/samples/",
+"_base": "https://raw.githubusercontent.com/khara53/samples/main",
 "breaks": ["choir_pad.wav", "guitar_glitch.wav", "machine_pad.wav", "musical_whoosh.wav", "weird_whoosh.wav"]
 }
