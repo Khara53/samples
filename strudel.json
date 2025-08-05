@@ -1,8 +1,6 @@
 {
   "_base": "https://raw.githubusercontent.com/Khara53/samples/main/",
-  "choir_pad": "choir_pad.wav",
-  "guitar_glitch": "guitar_glitch.wav",
-  "machine_pad": "machine_pad.wav",
-  "musical_whoosh": "musical_whoosh.wav",
-  "weird_whoosh": "weird_whoosh.wav"
+  "pads": ["choir_pad.wav", "machine_pad.wav"],
+  "glitch": ["guitar_glitch.wav"],
+  "whoosh": ["musical_whoosh.wav", "weird_whoosh.wav"]
 }
