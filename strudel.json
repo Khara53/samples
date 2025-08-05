@@ -1,21 +1,8 @@
 {
   "_base": "https://raw.githubusercontent.com/Khara53/samples/main/",
-  "kicks": [
-    "kicks/kick1.wav",
-    "kicks/kick2.wav", 
-    "kicks/kick3.wav"
-  ],
-  "pads": [
-    "pads/pad1.wav",
-    "pads/pad2.wav"
-  ],
-  "snares": [
-    "snares/snare1.wav",
-    "snares/snare2.wav"
-  ],
-  "hats": [
-    "hats/hat1.wav",
-    "hats/hat2.wav",
-    "hats/hat3.wav"
-  ]
+  "choir_pad": "choir_pad.wav",
+  "guitar_glitch": "guitar_glitch.wav",
+  "machine_pad": "machine_pad.wav",
+  "musical_whoosh": "musical_whoosh.wav",
+  "weird_whoosh": "weird_whoosh.wav"
 }
